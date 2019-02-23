@@ -4,7 +4,7 @@
 - Rozdělení na dovednosti, každá dovednost může mít více úrovní
 - Dovednosti na sobě mohou záviset (i na úrovni dovednosti)
 - Dovednosti mohou tvořit grafy, ale nemusí nutně, nemusí být všechny spojené
-- Zároveň ročníky (rozdělit až na čtvrleti?), každý obsahuje minimální dovednosti ke splnění a zkoušky
+- Zároveň "ročníky" (rozdělit až na čtvrleti?), každý obsahuje minimální dovednosti ke splnění a zkoušky
 
 ## Oblasti
 - Čtení
