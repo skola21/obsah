@@ -3,10 +3,10 @@
 - Čtení
 - Psaní
 - Člověk
-  - Hygiena
-  - Očkování
-  - Prevence
-  - Sexualita
+- Hygiena
+- Očkování
+- Prevence
+- Sexualita
 - Vaření
 - Matematika
 - Fyzika
@@ -24,3 +24,7 @@
 - Kritické myšlení
 - Diskuze, argumentace
 - Práce s informacemi
+- Výchova dětí
+- První pomoc
+- Sebeobrana
+- Cvičení
