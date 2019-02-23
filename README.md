@@ -6,6 +6,8 @@
   - Hygiena
   - Očkování
   - Prevence
+  - Sexualita
+- Vaření
 - Matematika
 - Fyzika
 - Biologie
