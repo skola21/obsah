@@ -14,3 +14,6 @@
 - Úmění
 - Etiketa
 - Morálka, etika
+- Kritické myšlení
+- Diskuze, argumentace
+- Práce s informacemi
