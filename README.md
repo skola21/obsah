@@ -20,6 +20,7 @@
 - Biologie
 - Chemie
 - Programování
+  - Python 3
 - Ekonomie
 - Český jazyk a literatura
 - Anglický jazyk
